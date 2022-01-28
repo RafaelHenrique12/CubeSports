@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+        <title>CubeSports</title>
+    </head>
+    <body>
+        <h1>CubeSports</h1>
+        <ul>
+            <li><h6>CONFÊRENCIA OESTE PACIFIC</h6></li>
+            <li><h5>1-Phoenix Rising</h5></li>
+            <li><h5>2-Orange County</h5></li>
+            <li><h5>3-San Diego Loyal</h5></li>
+            <li><h5>4-Oakland Roots</h5></li>
+            <li><h5>5-Tacoma Defiance</h5></li>
+            <li><h5>6-Los Angeles Galaxy II</h5></li>
+            <li><h5>7-Sacramento Republic</h5></li>
+            <li><h5>8-Las Vegas Lights</h5></li>
+            <li><h6>CONFERÊNCIA OESTE MONTAIN</h6></li>
+            <li><h5>1-El Paso Locomotive</h5></li>
+            <li><h5>2-San Antonio</h5></li>
+            <li><h5>3-Colorado Springs Switchbacks</h5></li>
+            <li><h5>4-Rio Grande Valley FC Toros</h5></li>
+            <li><h5>5-New Mexico United</h5></li>
+            <li><h5>6-Austin Bold</h5></li>
+            <li><h5>7-Real Monarchs</h5></li>
+            <li><h6>CONFERÊNCIA LESTE CENTER</h6></li>
+            <li><h5>1-Louisville City</h5></li>
+            <li><h5>2-Birmingham Legion</h5></li>
+            <li><h5>3-Memphis 901</h5></li>
+            <li><h5>4-Tulsa</h5></li>
+            <li><h5>5-Oklahoma City Energy</h5></li>
+            <li><h5>6-Indy Eleven</h5></li>
+            <li><h5>7-Atlanta United 2</h5></li>
+            <li><h5>8-Sporting Kansas City II</h5></li>
+            <li><h6>CONFERÊNCIA LESTE ATLANTIC</h6></li>
+            <li><h5>1-Tampa Bay Rowdies</h5></li>
+            <li><h5>2-Charlotte Independence</h5></li>
+            <li><h5>3-Pittsburgh Riverhounds</h5></li>
+            <li><h5>4-Miami</h5></li>
+            <li><h5>5-Hartford Athletic</h5></li>
+            <li><h5>6-Charleston Battery</h5></li>
+            <li><h5>7-New York Red Bulls II</h5></li>
+            <li><h5>8-Loudon United</h5></li>
+        </ul>
+    </body>
+</html>
